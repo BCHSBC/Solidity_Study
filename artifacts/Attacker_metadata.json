@@ -87,7 +87,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"ex.sol": "Attacker"
+			"Reentrancy.sol": "Attacker"
 		},
 		"evmVersion": "london",
 		"libraries": {},
@@ -101,12 +101,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"ex.sol": {
-			"keccak256": "0x68b072609ffd5253f843d50c0f81c8ef0845b4310194c3dc5303907fa93c9846",
+		"Reentrancy.sol": {
+			"keccak256": "0xd263f45a9219950d74dda3850b45810bb9cf7971f1af776afdc7378bef1728df",
 			"license": "GPL-30",
 			"urls": [
-				"bzz-raw://b7ec30103c7f2ee71397e6188ff5f7cd06da97b6b32647207d7228eb14638661",
-				"dweb:/ipfs/QmZnTmu58NGXmTJ3WHpq87ybYgFVfmAWR9rso5xWB6xMSS"
+				"bzz-raw://793be8d69886be00cbad94d2afd77409ce7671c8abd84ceac883f986041d7fce",
+				"dweb:/ipfs/QmVNCk1mcxWbcUuk5h3bksDP5ftbt4Etw9u4JZr9cqGwy7"
 			]
 		}
 	},
